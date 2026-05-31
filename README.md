@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sabitha 👋
 
-<!--
-**sabitha200603/sabitha200603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 BCA Graduate
+- 💻 Passionate about Web Development
+- 🚀 Interested in building real-world applications
+- 🌱 Continuously learning new technologies
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Portfolio Website
+Personal portfolio website showcasing my skills, projects, and achievements.
+
+### 🔍 Lost and Found in Campus
+A web-based platform that helps students report and find lost items within the campus.
+
+### ✈️ Smart Travel Planner
+A travel planning application that helps users plan and organize trips efficiently.
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+## 📫 Connect With Me
+- LinkedIn: linkedin.com/in/sabitha-sankar-077808411
+
+## 📫 Connect With Me
+- LinkedIn: Add your LinkedIn profile
