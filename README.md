@@ -23,8 +23,6 @@ A travel planning application that helps users plan and organize trips efficient
 - JavaScript
 - Git
 - GitHub
-## 📫 Connect With Me
-- LinkedIn: linkedin.com/in/sabitha-sankar-077808411
 
 ## 📫 Connect With Me
-- LinkedIn: Add your LinkedIn profile
+- LinkedIn: linkedin.com/in/sabitha-sankar-077808411
