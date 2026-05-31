@@ -23,6 +23,7 @@ A travel planning application that helps users plan and organize trips efficient
 - JavaScript
 - Git
 - GitHub
+- Netlify
 
 ## 📫 Connect With Me
 - LinkedIn: linkedin.com/in/sabitha-sankar-077808411
